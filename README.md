@@ -1,2 +1,5 @@
 # sheets2mob-help
-sheets2mob-web for help and discussions
+
+Newcomers, please use help at [https://github.com/JanRegent/sheets2mob-help/wiki "Wiki tab"] 
+
+this is for disscussions
